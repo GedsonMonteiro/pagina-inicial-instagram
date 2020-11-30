@@ -1,2 +1,2 @@
-# pagina-inicial-instagram
-Página de login do Instagram para atividade do Digital Innovation One.
+# Página de Login do Instagram
+Atividade para o Digital Innovation One.
